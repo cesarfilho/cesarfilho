@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu GitHub!
 
-<!--
-**cesarfilho/cesarfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou **Cesar Filho**, desenvolvedor apaixonado por tecnologia e inovação.
 
-Here are some ideas to get you started:
+## 🚀 Sobre Mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Desenvolvedor Full Stack
+- 🎯 Focado em criar soluções inovadoras
+- 📚 Sempre aprendendo novas tecnologias
+- 🌱 Contribuidor de projetos open-source
+
+## 🛠️ Tecnologias & Ferramentas
+
+```
+Frontend: JavaScript, React, TypeScript, HTML, CSS
+Backend: Node.js, Python, Express
+Banco de Dados: PostgreSQL, MongoDB, Firebase
+DevOps: Docker, Git, GitHub Actions
+```
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cesarfilho&theme=dark&show_icons=true)
+
+## 🔗 Conecte-se Comigo
+
+- 💼 [LinkedIn](https://linkedin.com)
+- 🐦 [Twitter](https://twitter.com)
+- 📧 Email: seu-email@exemplo.com
+- 🌐 [Meu Site](https://cesarfilho.github.io)
+
+## 📌 Projetos em Destaque
+
+Confira meus projetos mais interessantes nos repositórios abaixo!
+
+---
+
+⭐ Se gostou, considere deixar uma estrela nos meus repositórios!
