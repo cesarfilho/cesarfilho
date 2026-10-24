@@ -1,18 +1,14 @@
 # 👋 Cesar Filho
 
-**Full Stack Developer** | Open Source Enthusiast | Problem Solver
+Full Stack Developer
+
+Building practical, scalable products and clean digital experiences.
+
+I enjoy turning ideas into working solutions, improving user experience, and writing code that is maintainable and easy to evolve. I like working across the stack, collaborating with teams, and learning through real projects.
 
 ---
 
-## 🎯 About Me
-
-I'm a Full Stack Developer focused on building web applications and backend systems that solve real problems. I enjoy working across the stack, improving user experience, writing clean code, and learning new technologies along the way.
-
-I like collaborating with teams, contributing to open-source projects, and building solutions that are practical, maintainable, and useful.
-
----
-
-## 🛠️ Tech Stack
+## 🛠️ Stack
 
 ### Frontend
 JavaScript • TypeScript • React • Vue.js • Tailwind CSS • Next.js
@@ -22,6 +18,9 @@ Node.js • Express • Python • FastAPI
 
 ### Data & DevOps
 PostgreSQL • MongoDB • Docker • GitHub Actions
+
+### Mobile
+React Native • Flutter (Learning)
 
 ---
 
@@ -39,7 +38,7 @@ PostgreSQL • MongoDB • Docker • GitHub Actions
 
 ---
 
-## 🔗 Connect With Me
+## 🔗 Connect
 
 <div align="center">
 
@@ -54,6 +53,8 @@ PostgreSQL • MongoDB • Docker • GitHub Actions
 ---
 
 <div align="center">
+
+Open to opportunities in software engineering and full-stack development.
 
 ⭐ Thanks for visiting my profile.
 
