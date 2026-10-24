@@ -1,28 +1,34 @@
 # 👋 Cesar Filho
 
-**Full Stack Developer** | Open Source Enthusiast | Problem Solver
+Full Stack Developer • Building scalable products, modern APIs, and clean user experiences
 
 ---
 
-## 🎯 About Me
+## About Me
 
-I'm a passionate full-stack developer focused on building scalable, performant, and user-friendly web applications. I enjoy turning complex problems into clean solutions, collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
+I’m a Full Stack Developer focused on building reliable, high-performance web applications and APIs that solve real business problems. I enjoy working across the stack, from product strategy and UI/UX to backend architecture, database design, deployment, and optimization.
 
----
-
-## 🛠️ Tech Stack
-
-```text
-💻 Frontend: JavaScript, TypeScript, React, Vue.js, Tailwind CSS, Next.js
-🔧 Backend: Node.js, Express, Python, FastAPI, Docker
-🗄️ Database: PostgreSQL, MongoDB, Firebase, Redis
-☁️ DevOps: Docker, Kubernetes, CI/CD, GitHub Actions, AWS
-📱 Mobile: React Native, Flutter (Learning)
-```
+My strengths are in turning complex requirements into maintainable systems, collaborating with cross-functional teams, and delivering software that is easy to scale, test, and evolve.
 
 ---
 
-## 📊 GitHub Stats
+## Core Skills
+
+### Frontend
+JavaScript • TypeScript • React • Vue.js • Tailwind CSS • Next.js
+
+### Backend
+Node.js • Express • Python • FastAPI • REST APIs • Authentication • Real-time systems
+
+### Data & Infra
+PostgreSQL • MongoDB • Firebase • Redis • Docker • Kubernetes • CI/CD • GitHub Actions • AWS
+
+### Mobile
+React Native • Flutter (Learning)
+
+---
+
+## GitHub Stats
 
 <div align="center">
 
@@ -36,64 +42,69 @@ I'm a passionate full-stack developer focused on building scalable, performant, 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 1. **E-Commerce Platform**
+### 1. E-Commerce Platform
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-A full-featured e-commerce platform with payment integration, real-time inventory management, and an admin dashboard built for scale.
-- **Repository**: [cesarfilho/ecommerce-platform](https://github.com/cesarfilho/ecommerce-platform)
-- **Live Demo**: [Portfolio](https://cesarfilho.github.io)
+A full-featured e-commerce solution with payment integration, real-time inventory management, and an admin dashboard designed for scale and operational efficiency.
 
-### 2. **Task Management API**
+- Repository: [cesarfilho/ecommerce-platform](https://github.com/cesarfilho/ecommerce-platform)
+- Live Demo: [Portfolio](https://cesarfilho.github.io)
+
+### 2. Task Management API
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-A RESTful API for task management with authentication, notifications, and collaboration features for modern teams.
-- **Repository**: [cesarfilho/task-api](https://github.com/cesarfilho/task-api)
-- **Documentation**: [API Docs](https://github.com/cesarfilho/task-api)
+RESTful API for task management with authentication, notifications, collaboration features, and clean backend architecture for modern teams.
 
-### 3. **Weather Dashboard**
+- Repository: [cesarfilho/task-api](https://github.com/cesarfilho/task-api)
+- Documentation: [API Docs](https://github.com/cesarfilho/task-api)
+
+### 3. Weather Dashboard
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-An interactive weather dashboard with real-time data, forecasts, and a clean data-driven experience.
-- **Repository**: [cesarfilho/weather-dashboard](https://github.com/cesarfilho/weather-dashboard)
-- **Live Demo**: [Open Demo](https://cesarfilho.github.io)
+Interactive weather dashboard with real-time data, forecasting, and a clean, user-centered interface built for fast decision-making.
+
+- Repository: [cesarfilho/weather-dashboard](https://github.com/cesarfilho/weather-dashboard)
+- Live Demo: [Open Demo](https://cesarfilho.github.io)
 
 ---
 
-## 🏆 Highlights
+## Why Hire Me
 
-- 🌟 Open source contributor and collaborative developer
-- 💡 Passionate about building practical, high-impact products
-- 🎓 Constant learner exploring new tools and architectures
-- 🤝 Strong communicator and team player
-
----
-
-## 📈 Recent Activity
-
-- 🔨 Building AI-powered productivity tools
-- 📚 Writing technical content on modern web development
-- 🎤 Sharing ideas and insights with the developer community
-- 🤝 Mentoring and supporting junior developers
+- Strong product mindset with focus on user value and business impact
+- Comfortable across frontend, backend, APIs, and infrastructure
+- Builds maintainable systems with clean architecture and practical engineering decisions
+- Works well in collaborative environments and cross-functional teams
+- Continually learning modern frameworks, tools, and cloud-native patterns
 
 ---
 
-## 📚 Blog & Resources
+## Recent Work
 
-I enjoy writing about web development, software engineering, and product thinking:
-- 📖 [Dev.to](https://dev.to)
-- 📝 [Medium](https://medium.com)
-- 🎥 [YouTube](https://youtube.com)
+- Building AI-powered productivity tools and workflow automation
+- Writing technical content focused on modern web development and software engineering
+- Sharing practical engineering insights with the developer community
+- Supporting and mentoring junior developers
 
 ---
 
-## 🔗 Connect With Me
+## Blog & Resources
+
+I enjoy writing about web development, software engineering, product thinking, and emerging technologies.
+
+- [Dev.to](https://dev.to)
+- [Medium](https://medium.com)
+- [YouTube](https://youtube.com)
+
+---
+
+## Connect
 
 <div align="center">
 
@@ -107,18 +118,11 @@ I enjoy writing about web development, software engineering, and product thinkin
 
 ---
 
-## 💡 Fun Facts
-
-- 🎮 Gaming enthusiast
-- ☕ Coffee lover
-- 🎵 Music producer in my spare time
-- 🌍 Passionate about open-source and community-driven development
-
----
-
 <div align="center">
 
-⭐ If you like my work, please consider giving my projects a star. ⭐
+Open to opportunities in software engineering, product engineering, and full-stack development.
+
+⭐ If you’d like to connect, feel free to reach out.
 
 *Last updated: October 2026*
 
